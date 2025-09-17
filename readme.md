@@ -4,6 +4,8 @@
 
 **AWSDoor** is a red team automation tool designed to simulate advanced attacker behavior in AWS environments. It automates the deployment of persistence mechanisms, data exfiltration techniques, destructive operations, and defense impairment tactics, enabling security teams to test their detection and response capabilities against realistic cloud-native threats.
 
+Further technical information [here](https://www.riskinsight-wavestone.com/en/2025/09/awsdoor-persistence-on-aws/)
+
 ## 🔍 Purpose
 
 As AWS becomes a critical infrastructure platform, attackers increasingly exploit its flexibility to maintain stealthy and durable access. AWSDoor helps red teams replicate these techniques in a controlled and auditable manner, supporting Threat-Led Penetration Testing (TLPT) and adversary emulation in cloud environments.
